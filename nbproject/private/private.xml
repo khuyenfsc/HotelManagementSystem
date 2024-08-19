@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/khuye/Project/JavaProject/HotelSystemManagement/src/hotelsystemmanagement/ControlPackage/Control.java</file>
+            <file>file:/C:/Users/khuye/Project/JavaProject/HotelSystemManagement/src/hotelsystemmanagement/Connection/ConnectToDB.java</file>
+            <file>file:/C:/Users/khuye/Project/JavaProject/HotelSystemManagement/src/hotelsystemmanagement/AdminController/AddRoom.java</file>
+            <file>file:/C:/Users/khuye/Project/JavaProject/HotelSystemManagement/src/hotelsystemmanagement/ControlPackage/UpdateRoomPage.java</file>
+            <file>file:/C:/Users/khuye/Project/JavaProject/HotelSystemManagement/src/hotelsystemmanagement/Home/IntroductionPage.java</file>
+            <file>file:/C:/Users/khuye/Project/JavaProject/HotelSystemManagement/src/hotelsystemmanagement/Home/LoginPage.java</file>
+            <file>file:/C:/Users/khuye/Project/JavaProject/HotelSystemManagement/src/hotelsystemmanagement/ControlPackage/CustomerPage.java</file>
+            <file>file:/C:/Users/khuye/Project/JavaProject/HotelSystemManagement/src/hotelsystemmanagement/ControlPackage/RoomPage.java</file>
+            <file>file:/C:/Users/khuye/Project/JavaProject/HotelSystemManagement/src/hotelsystemmanagement/ControlPackage/DepartmentPage.java</file>
+            <file>file:/C:/Users/khuye/Project/JavaProject/HotelSystemManagement/src/hotelsystemmanagement/ControlPackage/MyTextField.java</file>
+            <file>file:/C:/Users/khuye/Project/JavaProject/HotelSystemManagement/src/hotelsystemmanagement/AdminController/AddEmployee.java</file>
+            <file>file:/C:/Users/khuye/Project/JavaProject/HotelSystemManagement/src/hotelsystemmanagement/ControlPackage/AddCustomerForm.java</file>
+            <file>file:/C:/Users/khuye/Project/JavaProject/HotelSystemManagement/src/hotelsystemmanagement/ControlPackage/EmployeePage.java</file>
+            <file>file:/C:/Users/khuye/Project/JavaProject/HotelSystemManagement/src/hotelsystemmanagement/Home/HomePage.java</file>
+            <file>file:/C:/Users/khuye/Project/JavaProject/HotelSystemManagement/src/hotelsystemmanagement/ControlPackage/CheckOutPage.java</file>
+        </group>
+    </open-files>
+</project-private>
